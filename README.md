@@ -1,0 +1,1 @@
+Following Nicholas Renotte's video to create a ChatBot with LangChain. 
